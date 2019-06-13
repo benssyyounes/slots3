@@ -1,6 +1,4 @@
-token=
-owner=  
-prefix= 
-game= Type help
-stayinchannel=true
-songinstatus=true
+token=NTg4Nzk4ODczMjQyNDM1NTk0.XQKXyA.q5PYiaqIeT4SWlxGE0c5ZNQ2QVs
+owner=588685076527841290  
+prefix= t!
+game= Type help t!
